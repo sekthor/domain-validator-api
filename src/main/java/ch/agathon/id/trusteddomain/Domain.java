@@ -1,4 +1,4 @@
-package ch.agathon.id.trusteddomain.trusteddomain;
+package ch.agathon.id.trusteddomain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

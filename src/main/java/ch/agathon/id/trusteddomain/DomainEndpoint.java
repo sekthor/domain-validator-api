@@ -1,4 +1,4 @@
-package ch.agathon.id.trusteddomain.trusteddomain;
+package ch.agathon.id.trusteddomain;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

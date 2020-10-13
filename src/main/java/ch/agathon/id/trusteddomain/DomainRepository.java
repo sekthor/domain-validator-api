@@ -1,4 +1,4 @@
-package ch.agathon.id.trusteddomain.trusteddomain;
+package ch.agathon.id.trusteddomain;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
